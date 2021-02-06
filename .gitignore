@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+# VSCode
+.history
+
 # next.js
 /.next/
 /out/
